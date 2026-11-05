@@ -1,0 +1,5 @@
+# ModelSim / Questa
+work/
+transcript
+*.wlf
+*.vcd
